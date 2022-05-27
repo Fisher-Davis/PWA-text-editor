@@ -1,5 +1,5 @@
 # PWA-text-editor
-
+deployed to heroku: https://text-editor-pwa-1.herokuapp.com/
 ### Table of Contents 
 
 - Summary 
